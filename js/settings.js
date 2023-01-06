@@ -26,13 +26,7 @@ function showGeneralSettings(callback) {
   <li class="nav-item" role="presentation">\
     <a class="nav-link active" id="pills-general-tab" data-toggle="pill" href="#pills-general" role="tab" aria-controls="pills-general" aria-selected="true">General</a>\
   </li>\
-  <li class="nav-item" role="presentation">\
-    <a class="nav-link" id="pills-about-tab" data-toggle="pill" href="#pills-about" role="tab" aria-controls="pills-about" aria-selected="false">About</a>\
-  </li>\
-  <li class="nav-item" role="presentation">\
-    <a class="nav-link" id="pills-credits-tab" data-toggle="pill" href="#pills-credits" role="tab" aria-controls="pills-credits" aria-selected="false">Credits</a>\
-  </li>\
-  <li class="nav-item" role="presentation">\
+    <li class="nav-item" role="presentation">\
     <a class="nav-link" id="pills-videolist-tab" data-toggle="pill" href="#pills-videolist" role="tab" aria-controls="pills-videolist" aria-selected="false">Video List</a>\
   </li>\
   </ul>';
