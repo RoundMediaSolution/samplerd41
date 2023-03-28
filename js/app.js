@@ -4,28 +4,7 @@
  alarm
 */
 /*
-Jam Sholat 2 Alpha
-Author : susilonurcahyo@gmail.com
 
-Copyright 2021 Susilo Nurcahyo
-
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Credits :
-Adhan -  MIT License
-Bootstrap -  MIT License
-jQuery -  MIT License
-Moment js -  MIT License
-Moment-Hijri -  MIT License
-The Roboto Light Fonts -  Apache License, Version 2.0. 
-CKEditor 4
-*/
 
 console.log('app starting...');
 
@@ -68,8 +47,13 @@ if (global == null) {
             مَنْ سَلَكَ طَرِيْقًايَلْتَمِسُ فِيْهِ عِلْمًا,سَهَّلَ اللهُ لَهُ طَرِيْقًا إِلَى الجَنَّةِ . رَوَاهُ مُسْلِم\
             </span><br>\
             Barang siapa menempuh satu jalan (cara) untuk mendapatkan ilmu, maka Allah pasti mudahkan baginya jalan menuju surga." (HR. Muslim)', enable: true, duration: 10},
-            {title:'Slot Kosong', content: '', enable: false, duration: 5},
-            {title:'Slot kosong', content: '', enable: false, duration: 5},
+            {title:'Mempersulit', content: '<span style="font-size: 39px;">\
+            اَللَّهُمَّ مَنْ وَلِيَ مِنْ أَمْرِ أُمَّتِي شَيْئًا فَشَقَّ عَلَيْهِ فَاشْقُقْ عَلَيْهِ\
+            </span><br>\', enable: true, duration: 5},
+            {title:'Ilmu2', content: '<span style="font-size: 39px;">\
+            إِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ\
+            </span><br>\
+            Jika seorang manusia meninggal, terputuslah amalnya, kecuali dari tiga hal: sedekah jariyah, ilmu yang bermanfaat atau anak shaleh yang berdoa untuknya,enable: true, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
