@@ -62,7 +62,10 @@ if (global == null) {
             مَنْ سَلَكَ طَرِيْقًايَلْتَمِسُ فِيْهِ عِلْمًا,سَهَّلَ اللهُ لَهُ طَرِيْقًا إِلَى الجَنَّةِ . رَوَاهُ مُسْلِم\
             </span><br>\
             Barang siapa menempuh satu jalan (cara) untuk mendapatkan ilmu, maka Allah pasti mudahkan baginya jalan menuju surga." (HR. Muslim)', enable: true, duration: 10},
-            {title:'Slot Kosong', content: '', enable: false, duration: 5},
+            {title:'Hadist Ilmu2', content: '<span style="font-size: 39px;">\
+            مِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ\
+            </span><br>\
+            Jika seorang manusia meninggal, terputuslah amalnya, kecuali dari tiga hal: sedekah jariyah, ilmu yang bermanfaat atau anak shaleh yang berdoa untuknya." (HR. Muslim)', enable: true, duration: 10},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
