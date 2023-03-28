@@ -66,10 +66,7 @@ if (global == null) {
             مِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ\
             </span><br>\
             Jika seorang manusia meninggal, terputuslah amalnya, kecuali dari tiga hal: sedekah jariyah, ilmu yang bermanfaat atau anak shaleh yang berdoa untuknya." (HR. Muslim)', enable: true, duration: 10},
-            title:'Hadist uang', content: '<span style="font-size: 39px;">\
-            دِينَارٌ أَنْفَقْتَهُ فِى سَبِيلِ اللَّهِ وَدِينَارٌ أَنْفَقْتَهُ فِى رَقَبَةٍ وَدِينَارٌ تَصَدَّقْتَ بِهِ عَلَى مِسْكِينٍ وَدِينَارٌ أَنْفَقْتَهُ عَلَى أَهْلِكَ أَعْظَمُهَا أَجْرًا الَّذِى أَنْفَقْتَهُ عَلَى أَهْلِكَ\
-            </span><br>\
-            Satu dinar yang engkau keluarkan di jalan Allah, lalu satu dinar yang engkau keluarkan untuk memerdekakan seorang budak, lalu satu dinar yang engkau yang engkau keluarkan untuk satu orang miskin, dibandingkan dengan satu dinar yang engkau nafkahkan untuk keluargamu maka pahalanya lebih besar " (HR. Muslim)', enable: true, duration: 25},
+            {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
