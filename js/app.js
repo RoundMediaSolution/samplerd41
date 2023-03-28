@@ -42,7 +42,7 @@ if (global == null) {
         isadhan: false,
         iqomahtime : 5,
         isiqomah: false,
-        prayduration : 0, 
+        prayduration : 10, 
         ispraying: false,
         isjumat: false,
         currentpray: '',
