@@ -66,7 +66,10 @@ if (global == null) {
             إِذَا مَاتَ ابنُ آدَمَ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أو عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ. رَوَاهُ مُسْلِمٌ\
             </span><br>\
             Jika seorang manusia meninggal, terputuslah amalnya, kecuali dari tiga hal: sedekah jariyah, ilmu yang bermanfaat atau anak shaleh yang berdoa untuknya." (HR. Muslim)', enable: true, duration: 10},
-            {title:'Slot kosong', content: '', enable: false, duration: 5},
+            {title:'Hadist Ilmu2', content: '<span style="font-size: 39px;">\
+            عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْطُوا الْأَجِيرَ أَجْرَهُ قَبْلَ أَنْ يَجِفَّ عَرَقُهُ. (رواه إبن ماجة والطبراني)\
+            </span><br>\
+            , enable: true, duration: 2},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
