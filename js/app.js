@@ -49,12 +49,12 @@ if (global == null) {
         namamasjid: 'Baitul Masykur',
         alamatmasjid: 'Jl. Anjasmoro Raya, Tawangsari, Kec. Semarang Barat, Kota Semarang',
         prayer: {
-            Subuh: { label: 'Subuh', iqomah: 5, adjustment: 2, duration : 5 },
-            Terbit: { label: 'Terbit', iqomah: 5, adjustment: 2, duration : 5 },
-            Dzuhur: { label: 'Dzuhur', iqomah: 5, adjustment: 2, duration : 5 },
-            Ashar: { label: 'Ashar', iqomah: 5, adjustment: 2, duration : 5 },
-            Maghrib: { label: 'Maghrib', iqomah: 5, adjustment: 2, duration : 5 },
-            Isya: { label: 'Isya', iqomah: 5, adjustment: 2, duration : 5 }
+            Subuh: { label: 'Subuh', iqomah: 5, adjustment: 2, duration :  },
+            Terbit: { label: 'Terbit', iqomah: 5, adjustment: 2, duration :  },
+            Dzuhur: { label: 'Dzuhur', iqomah: 5, adjustment: 2, duration :  },
+            Ashar: { label: 'Ashar', iqomah: 5, adjustment: 2, duration :  },
+            Maghrib: { label: 'Maghrib', iqomah: 5, adjustment: 2, duration :  },
+            Isya: { label: 'Isya', iqomah: 5, adjustment: 2, duration :  }
         },
         infotextinterval: 5, //seconds
         infotextdata: [
