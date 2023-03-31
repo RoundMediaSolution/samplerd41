@@ -49,12 +49,12 @@ if (global == null) {
         namamasjid: 'Baitul Masykur',
         alamatmasjid: 'Jl. Anjasmoro Raya, Tawangsari, Kec. Semarang Barat, Kota Semarang',
         prayer: {
-            Subuh: { label: 'Subuh', iqomah: 5, adjustment: 2, duration :  },
-            Terbit: { label: 'Terbit', iqomah: 5, adjustment: 2, duration :  },
-            Dzuhur: { label: 'Dzuhur', iqomah: 5, adjustment: 2, duration :  },
-            Ashar: { label: 'Ashar', iqomah: 5, adjustment: 2, duration :  },
-            Maghrib: { label: 'Maghrib', iqomah: 5, adjustment: 2, duration :  },
-            Isya: { label: 'Isya', iqomah: 5, adjustment: 2, duration :  }
+            Subuh: { label: 'Subuh', iqomah: 5, adjustment: 2, duration : 0 },
+            Terbit: { label: 'Terbit', iqomah: 5, adjustment: 2, duration : 0 },
+            Dzuhur: { label: 'Dzuhur', iqomah: 5, adjustment: 2, duration : 0 },
+            Ashar: { label: 'Ashar', iqomah: 5, adjustment: 2, duration : 0 },
+            Maghrib: { label: 'Maghrib', iqomah: 5, adjustment: 2, duration : 0 },
+            Isya: { label: 'Isya', iqomah: 5, adjustment: 2, duration : 0 }
         },
         infotextinterval: 5, //seconds
         infotextdata: [
@@ -63,7 +63,7 @@ if (global == null) {
             </span><br>\
             Barang siapa menempuh satu jalan (cara) untuk mendapatkan ilmu, maka Allah pasti mudahkan baginya jalan menuju surga." (HR. Muslim)', enable: true, duration: 10},
             {title:'Hadist Ilmu2', content: '<span style="font-size: 39px;">\
-            إِذَا مَاتَ ابنُ آدَمَ انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أو عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ. رَوَاهُ مُسْلِمٌ\
+            مِذَا مَاتَ الْإِنْسَانُ انْقَطَعَ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ\
             </span><br>\
             Jika seorang manusia meninggal, terputuslah amalnya, kecuali dari tiga hal: sedekah jariyah, ilmu yang bermanfaat atau anak shaleh yang berdoa untuknya." (HR. Muslim)', enable: true, duration: 10},
             {title:'Slot kosong', content: '', enable: false, duration: 5},
